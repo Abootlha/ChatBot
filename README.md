@@ -22,8 +22,8 @@ This is a simple chatbot built using Python, TensorFlow, and NLTK. The chatbot c
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Abootlha/ChatBot.git
+   cd ChatBot
    
 2. Install Dependencies: Make sure you have Python 3.x installed. Then, install the required libraries:
    pip install tensorflow nltk numpy
